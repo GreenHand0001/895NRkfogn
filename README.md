@@ -41,12 +41,14 @@ public ResponseEntity<?> checkIn(@RequestBody CheckInRequest request) {
 ![下载](https://github.com/user-attachments/assets/2d103c9e-5ccc-44a1-a6d7-23a47c088dca)
 
 ## 项目截图
-![screenshot_08](https://github.com/user-attachments/assets/8fb224c7-6daa-442d-861a-a6ff9c95f89f)
-![screenshot_07](https://github.com/user-attachments/assets/202f8dd9-0d23-4863-978c-d18dfb993178)
-![screenshot_06](https://github.com/user-attachments/assets/679acf66-1f45-4304-88fe-f81a0c407526)
-![screenshot_05](https://github.com/user-attachments/assets/2b036243-74b3-47ab-b34e-3b7a8e136103)
-![screenshot_04](https://github.com/user-attachments/assets/b062b00e-2732-4c04-a843-5f650227244e)
-![screenshot_03](https://github.com/user-attachments/assets/9e35f48d-3de0-4653-960a-b248d9cb2a34)
-![screenshot_02](https://github.com/user-attachments/assets/8a4994af-d7e9-4333-9bf5-7f337d84b709)
-![screenshot_01](https://github.com/user-attachments/assets/0443e65f-d5e4-420b-a922-b8d8ddba47d5)
+![screenshot_09](https://github.com/user-attachments/assets/1e4eabde-61ab-43da-a764-3592db98976c)
+![screenshot_08](https://github.com/user-attachments/assets/952a84f3-71df-4926-a0d6-b855601ba5dc)
+![screenshot_07](https://github.com/user-attachments/assets/4ee9b8b1-8451-42e3-bc12-81b8b9c28ee2)
+![screenshot_06](https://github.com/user-attachments/assets/058789de-6b1b-4b9a-9612-49f060ad39d1)
+![screenshot_05](https://github.com/user-attachments/assets/c1851633-53b1-4f2f-ae8d-2c74709eeb50)
+![screenshot_04](https://github.com/user-attachments/assets/d45f4c37-e48b-4b73-b6e6-4c1a4c01c103)
+![screenshot_03](https://github.com/user-attachments/assets/97631aea-dc39-404d-9074-37a4d9a92e4e)
+![screenshot_02](https://github.com/user-attachments/assets/2b3ef40f-52f0-4f46-83cb-986eb676d14d)
+![screenshot_01](https://github.com/user-attachments/assets/2e601417-9723-4b12-98e6-9d6b17a6838d)
+
 
